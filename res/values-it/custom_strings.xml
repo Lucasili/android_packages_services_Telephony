@@ -25,4 +25,9 @@
     <string name="prox_auto_speaker_incall_only_summary_on">Sulle chiamate in uscita, il monitoraggio si attiva dopo che il destinatario ha risposto</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Il monitoraggio sarà attivo durante tutte le fasi di chiamata (predefinito)</string>
 
+    <!-- Proximity sensor enable -->
+    <string name="proximity_mode_title">Abilita sensore di prossimità</string>
+    <string name="proximity_on_summary">Durante la chiamata usa il sensore di prossimità per spegnere lo schermo</string>
+    <string name="proximity_off_summary">Durante la chiamata lo schermo rimane acceso</string>
+
 </resources>

@@ -211,6 +211,8 @@ public class CallFeaturesSetting extends PreferenceActivity
 
     private Intent mContactListIntent;
 
+    private static final String BUTTON_PROXIMITY_KEY   = "button_proximity_key";
+
     /** Event for Async voicemail change call */
     private static final int EVENT_VOICEMAIL_CHANGED        = 500;
     private static final int EVENT_FORWARDING_CHANGED       = 501;
